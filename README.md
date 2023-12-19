@@ -6,3 +6,4 @@ what you have to do
 docker-compose up -d
 
 All you have to do is enter the command.
+
